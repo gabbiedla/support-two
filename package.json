@@ -1,0 +1,12 @@
+{
+  "name": "support-two",
+  "version": "1.0.0",
+  "description": "support ticket app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "start": "node server.js"
+  },
+  "author": "gabsdla",
+  "license": "MIT"
+}
